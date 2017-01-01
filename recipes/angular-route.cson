@@ -1,0 +1,5 @@
+steps: [
+  type: "file"
+  url: "https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js"
+  dest: "vendor/js/angular-route.js"
+]
