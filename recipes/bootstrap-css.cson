@@ -1,0 +1,5 @@
+steps: [
+  type: "file"
+  url: "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css"
+  dest: "vendor/css/bootstrap-css.css"
+]
