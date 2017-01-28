@@ -1,0 +1,5 @@
+steps: [
+  type: "file"
+  url: "https://github.com/ninjatronic/angular-base64.git"
+  dest: "vendor/js/angular-base64.js"
+]
