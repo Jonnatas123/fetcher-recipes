@@ -1,5 +1,5 @@
 steps: [
   type: "file"
-  url: "http://gregpike.net/demos/angular-local-storage/src/angular-local-storage.js"
+  url: "https://cdnjs.cloudflare.com/ajax/libs/ngStorage/0.3.6/ngStorage.jss"
   dest: "vendor/js/angular-local-storage.js"
 ]
