@@ -1,0 +1,5 @@
+steps: [
+  type: "file"
+  url: "https://momentjs.com/downloads/moment.js"
+  dest: "vendor/js/moment.js"
+]
