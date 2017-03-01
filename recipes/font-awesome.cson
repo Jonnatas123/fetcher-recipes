@@ -1,0 +1,5 @@
+steps: [
+  type: "file"
+  url: "http://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css"
+  dest: "vendor/css/font-awesome.css"
+]
